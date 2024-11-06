@@ -1,13 +1,60 @@
 #EXTM3U
-#EXTINF:0 tvg-name="The little Things" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmOGRhZjgtYTBiMi00ODU2LWEyZjgtNDkzZDc0MzJiMjI1XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="Movies",The little Things
-https://xis.fifteennet.com/_v10/41e5bec24945ef2cb4f49f2e5b6cbdaa600bd662dff4aca500660565ff0b28dd729f98121d29cf07c501203c5216d3ebebb0f3c0c2149ef683262fddfa5e3c65f1e2facb5e31eaaa3cbf6d3f8dbfbdf3db90e635d6fa84dd7271afa5e4a1f5330c57c48fb255b9111f1af9d69532e114a5fd39aff6d5d7f091e6c06edc80b07967014d1ad3806503172c6358864684ca/1080/index.m3u8
-#EXTINF:0  tvg-name="Jack the Giant Slayer" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1NDMxMjI0OV5BMl5BanBnXkFtZTcwMjQyMDExOQ@@._V1_.jpg" group-title="Movies",Jack the Giant Slayer
-https://neves.jeffycontent.com/_v10/589420b79fa334ccabc9eb79cd9b49cd89c13ca558c2ee0f30ba5f76dcd5b75b2355d505f8e19336cd6a39f96c446254f3b6ff1dabf93bad00178bcfe0a4396881c7184c7fb290415174bec9f3cb7d14ec8b821431127490631af458222a541df1223e28c503a64350feab0767923a6c0d132af3aae404230805c9b154f62ab75beea48ec4d46b0c4253a59427b1ce02/1080/index.m3u8
-#EXTINF:0  tvg-name="Dungeons & Dragons: Honor Among Thieves" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFkN2M2NzItOTY5YS00MmE2LTk3ZjctNTk2YzQ5ZmRiYzJjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" group-title="Movies",Dungeons & Dragons: Honor Among Thieves
-https://owt.webarchivecdn.com/_v10/1cd3ee646ddba99f88de8ff1971f33a393a1122159fa73950ae30c57b3d2c0f6bd0292ae2c118c83f1cd48c972425fb36462ee67c7ff0df04bbe9bbd193b4166354d37d5234ddbd929bf1d02cc1e1d4d9199cfe6d209554154c8d3194fca35a3b746693130fb17654f8116b47db4a41326cf59e9d87ecfdd8c858c42719a958ea79d8f9031cc69dc764f7d62f603f87a/1080/index.m3u8
-#EXTINF:0 tvg-name="The Day of the Jackal (Chacal)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NzcxNTg3OF5BMl5BanBnXkFtZTYwNzA1ODQ5._V1_.jpg" group-title="Movies",The Day of the Jackal (Chacal)
-https://xis.fifteennet.com/_v10/1ee36acb23b9d9ed7d21bc33840ca853377d69dda43cfd360df9847105f1ffaab649b4543c389cf2aba0c0cf3c9a392533d4ebc9f9105f815515c0a3a8ea6e24152ee571fd2b351f1d306380d29bd45ac0c2ca046de6ef4b7ec846b90a44907b8810ec736b5970205e9287028698879113904e610bbc5b6ceee92e038b41a87298f5112f9fdc5b5cbab9aae1bdcd1ab9/1080/index.m3u8
-#EXTINF:0 tvg-name="Confidential Informant" tvg-logo="https://img.1movieshd.com/xxrz/250x400/233/fe/64/fe6434ed5fc9d2d6842d1a792d310c62/fe6434ed5fc9d2d6842d1a792d310c62.jpg" group-title="Movies",Confidential Informant
-https://eerht.artdesigncdn.net/_v10/7e8eda99f02fc7495a29acdae7c85aac67a313faad43518a12005415a1c0be657ea282df5b688b2c570eed689aaffc7cc85a613a80aed75ad5eefb449e5db585d9392aaa40963c7d2a75b7bbc275598fe22472eae2dfbfc16a13decba0d8ba1f21a0892be9eda16c5161603eb3362e553dead608082984360b0430a6301abc2e18cb9efc456f83138f1880d7bc920ae1/1080/index.m3u8
-#EXTINF:0 tvg-name="Titanic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png" group-title="Movies",Titanic
-https://rouf.magnewscontent.org/_v10/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c7258f081e233d30011299de2585cb4989d509a049c7a1164eea24de4890bb8499714/1080/index.m3u8
+#EXTINF:-1, Dexter Season 1 Episode 1: "Dexter"
+https://r465--2zudrdq9.c.scdns.io/stream/v1/hls/13cuCohmB9-m8fq9eUAcqQ/1730919100/www.faselhds.care/all/197.26.201.110/no/TN/0/02-02/2/1922fd2730d950a96aee9fa2723662c8/160_hd1080b_playlist.m3u8
+# Description: Dexter introduces himself and his life as a blood spatter analyst and a serial killer.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 2: "Crocodile"
+http://yourstreaminglink.com/season1/episode2
+# Description: Dexter investigates a murder while dealing with his own dark urges.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 3: "The Suitcase"
+http://yourstreaminglink.com/season1/episode3
+# Description: Dexter's personal life begins to intertwine with his work, leading to complications.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 4: "Let's Give the Boy a Hand"
+http://yourstreaminglink.com/season1/episode4
+# Description: A new case brings Dexter closer to his own past.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 5: "Love American Style"
+http://yourstreaminglink.com/season1/episode5
+# Description: Dexter navigates relationships while pursuing a new target.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 6: "Return to Sender"
+http://yourstreaminglink.com/season1/episode6
+# Description: Dexter faces challenges from both his personal and professional life.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 7: "The Dark Defender"
+http://yourstreaminglink.com/season1/episode7
+# Description: Flashbacks reveal more about Dexter's childhood and his motivations.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 8: "Shrink Wrap"
+http://yourstreaminglink.com/season1/episode8
+# Description: Dexter's therapist becomes involved in his life, complicating his double life.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 9: "Father Knows Best"
+http://yourstreaminglink.com/season1/episode9
+# Description: Dexter's relationship with his sister and father is explored further.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 10: "Seeing Red"
+http://yourstreaminglink.com/season1/episode10
+# Description: A significant event forces Dexter to confront his past.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 11: "Truth Be Told"
+http://yourstreaminglink.com/season1/episode11
+# Description: Dexter's secrets are at risk of being exposed.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
+
+#EXTINF:-1, Dexter Season 1 Episode 12: "Born Free"
+http://yourstreaminglink.com/season1/episode12
+# Description: The season finale brings major revelations and consequences for Dexter.
+# Image: https://upload.wikimedia.org/wikipedia/en/3/31/Dexter_season_1_DVD.png
